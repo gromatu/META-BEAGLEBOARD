@@ -1,0 +1,9 @@
+[submodule "poky-jethro"]
+	path = poky-jethro
+	url = git://git.yoctoproject.org/poky.git
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+[submodule "bbb/meta-beagleboard"]
+	path = bbb/meta-beagleboard
+	url = git@github.com:beagleboard/meta-beagleboard.git
